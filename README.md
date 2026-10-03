@@ -13,6 +13,7 @@ O Markdown é uma linguagem de marcação leve e muito fácil de ler. Ele permit
 Para escrever e visualizar Markdown, recomendamos o **Visual Studio Code (VS Code)**.
 - **Download:** [code.visualstudio.com](https://code.visualstudio.com/)
 - **Setup:** Basta baixar e instalar. Abra qualquer arquivo `.md` no editor e pressione `Ctrl + Shift + V` (ou `Cmd + Shift + V` no Mac) para abrir a janela de pré-visualização.
+- **Vídeo:** https://youtu.be/jaJttwjQ39c
 
 ## Conteúdo do Curso
 Navegue pela pasta `notes/` para acessar as lições:
