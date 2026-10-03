@@ -48,8 +48,6 @@ Criar listas é muito intuitivo.
 **Blocos de Código:**
 Utilize três crases (\`\`\`) para destacar trechos de código ou comandos na sua documentação:
 
-```markdown
-\```bash
+```bash
 git clone https://gitlab.com/...
-\```
 ```
